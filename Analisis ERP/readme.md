@@ -6,6 +6,6 @@ Se realiza el analisis de la informacion de la aplicacion SAP Bussines One, que 
 
 ## Objetivos
 
-1.Prueba
-2.este no se
+1. Prueba
+2. este no se
 3. prueba 
